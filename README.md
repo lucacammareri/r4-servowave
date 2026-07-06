@@ -114,6 +114,16 @@ Problemas comunes:
 - **Aislamiento de clientes (client isolation)** activado en el router (común en redes de instituciones): bloquea que dispositivos de la misma red se vean entre sí.
 - La IP asignada por DHCP cambió desde la última vez.
 
+## 🎥 Video de evidencia
+
+Demo corta mostrando el joystick moviendo el servo en tiempo real:
+
+(ACÁ VA EL LINK DEL VIDEO)
+
+> Para agregarlo: editá este archivo directo en GitHub (ícono ✏️) y arrastrá el
+> archivo .mp4 sobre esta sección — GitHub lo sube solo y reemplaza esta línea
+> por el link embebido.
+
 ## 🛣️ Próximos pasos / ideas
 
 - [ ] Modo Access Point como alternativa (sin depender de un router externo)
