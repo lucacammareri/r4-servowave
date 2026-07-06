@@ -1,4 +1,4 @@
-## 
+## video
 
 [Ver video de la UI en funcionamiento](media/previw_ui.mp4)
 
