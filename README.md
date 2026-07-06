@@ -1,3 +1,9 @@
+## video
+
+[Ver video de la UI en funcionamiento](media/previw_ui.mp4)
+
+
+
 # R4 ServoWave 🕹️
 
 Control de un servo posicional vía WiFi usando un **Arduino UNO R4 WiFi**, con una interfaz web tipo joystick.
