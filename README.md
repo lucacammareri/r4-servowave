@@ -1,7 +1,6 @@
-## video
+## 🎥 Video de evidencia
 
-[Ver video de la UI en funcionamiento](media/previw_ui.mp4)
-
+https://github.com/user-attachments/assets/4cb3a52f-a4fc-4086-9428-63554fa5f31f
 
 
 # R4 ServoWave 🕹️
@@ -120,15 +119,7 @@ Problemas comunes:
 - **Aislamiento de clientes (client isolation)** activado en el router (común en redes de instituciones): bloquea que dispositivos de la misma red se vean entre sí.
 - La IP asignada por DHCP cambió desde la última vez.
 
-## 🎥 Video de evidencia
 
-Demo corta mostrando el joystick moviendo el servo en tiempo real:
-
-(ACÁ VA EL LINK DEL VIDEO)
-
-> Para agregarlo: editá este archivo directo en GitHub (ícono ✏️) y arrastrá el
-> archivo .mp4 sobre esta sección — GitHub lo sube solo y reemplaza esta línea
-> por el link embebido.
 
 ## 🛣️ Próximos pasos / ideas
 
